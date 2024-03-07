@@ -9,6 +9,10 @@ This is a secure password generator application designed for employees with acce
 - [Installation](#installation)
 - [Usage](#usage)
 
+## Preview 
+![screenshot](./imgs/Screenshot%202024-03-06%20at%208.31.00%20PM.png)
+![screenshot](./imgs/prompt.png)
+
 ## Installation
 
 Follow these steps to set up and run the application:
